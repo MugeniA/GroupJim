@@ -1,0 +1,35 @@
+h5{
+	text-align: center;
+	font-family: 'Great Vibes',cursive;
+	color:orange;
+	font-size: 30px;
+}
+h3{
+    
+	text-align: center;
+	font-family: 'Kavivanar', cursive;
+}
+article{
+	color:#404040;
+	font-family: 'Cinzel', serif;
+}
+#para{
+	color:orange;
+	font-size: 34px;
+}
+#mugeni{
+	
+ margin-top: -50px;
+}
+.navbar {
+	background-color: black;
+	color: aliceblue;
+}
+.melissa{
+width: 200 px;
+height: 200 px;
+}
+#melissa img{
+	height:300px;
+	width:400px;
+}
